@@ -1,0 +1,5 @@
+replicas: 1
+customVar: eyeye
+podAnnotations: 
+ a: b
+ c: d
